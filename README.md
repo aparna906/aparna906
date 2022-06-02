@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aparna Misar</h1>
 <h3 align="center">Software Engineer</h3>
 
-👩‍💻i have completed MCA.
+👩‍💻 I have completed MCA.
 
 🌱 I’m currently learning SpringBoot and Hibernate.
 
