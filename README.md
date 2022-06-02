@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aparna Misar</h1>
 <h3 align="center">Software Engineer</h3>
 
-👩‍💻i am pursuing MCA
+👩‍💻i have completed MCA.
 
 🌱 I’m currently learning SpringBoot and Hibernate.
 
-💬 Ask me about OOPs and Java.
+💬 Ask me about OOPs,Core Java,Servlet,Jsp,Html,Css,Xml,MySql and Github.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
