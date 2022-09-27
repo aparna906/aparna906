@@ -3,9 +3,9 @@
 
 👩‍💻 I have completed MCA.
 
-🌱 I’m currently learning SpringBoot and Hibernate.
+🌱 I’m currently learning Salesforce.
 
-💬 Ask me about OOPs,Core Java,Servlet,Jsp,Html,Css,Xml,MySql and Github.
+💬 Ask me about OOPs,Core Java,Servlet,Jsp,Html,Css,JavaScript,Xml,MySql,Salesforce Admin and Github.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
