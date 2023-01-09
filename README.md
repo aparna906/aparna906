@@ -3,8 +3,6 @@
 
 👩‍💻 I have completed MCA.
 
-🌱 I’m currently learning Salesforce.
-
 💬 Ask me about OOPs,Core Java,Servlet,Jsp,Html,Css,JavaScript,,MySql,Database, Docker, Kubernetes, Salesforce Admin and Github.
 
 <h3 align="left">Connect with me:</h3>
